@@ -1,0 +1,47 @@
+======================================================================
+ML MODEL EXPLAINABILITY REPORT
+======================================================================
+
+1. PREDICTION SUMMARY
+----------------------------------------------------------------------
+Risk Level: LOW
+Credit Score: 95/100
+Default Probability: 5.00%
+Model Confidence: 85.0%
+
+
+2. KEY DECISION FACTORS
+----------------------------------------------------------------------
+Top factors influencing the decision:
+
+1. ✅ Strong profitability (16.4% margin)
+2. ✅ Low debt burden (0.08 ratio)
+3. ✅ Strong liquidity position (score: 100)
+4. 🟡 Neutral external signals (risk: 46)
+
+
+3. FEATURE IMPORTANCE
+----------------------------------------------------------------------
+Model feature weights:
+
+profit_margin                  20.0% ██████████
+debt_to_asset_ratio            18.0% █████████
+liquidity_score                15.0% ███████
+financial_health_score         15.0% ███████
+research_risk_score            12.0% ██████
+cash_flow_to_debt_ratio        10.0% █████
+sentiment_score                 5.0% ██
+risk_signal_count               5.0% ██
+
+
+4. FEATURE VALUES
+----------------------------------------------------------------------
+Input features used in prediction:
+
+profit_margin                 :    16.43
+debt_to_asset_ratio           :     0.08
+liquidity_score               :   100.00
+financial_health_score        :    92.36
+research_risk_score           :    45.50
+
+======================================================================

@@ -1,0 +1,53 @@
+SAMPLE FINANCIAL STATEMENT
+Company: ABC Industries Ltd.
+Financial Year: 2023-24
+
+INCOME STATEMENT
+================
+
+Revenue: ₹5,20,00,000
+Cost of Goods Sold: ₹3,50,00,000
+Gross Profit: ₹1,70,00,000
+
+Operating Expenses: ₹95,00,000
+Operating Income: ₹75,00,000
+
+Interest Expense: ₹12,00,000
+Tax Expense: ₹15,00,000
+
+Net Profit: ₹48,00,000
+
+BALANCE SHEET
+=============
+
+ASSETS
+Total Assets: ₹3,80,00,000
+Current Assets: ₹1,50,00,000
+Fixed Assets: ₹2,30,00,000
+
+LIABILITIES
+Total Liabilities: ₹2,10,00,000
+Current Liabilities: ₹80,00,000
+Long-term Liabilities: ₹1,30,00,000
+
+Total Debt: ₹1,60,00,000
+
+CASH FLOW STATEMENT
+===================
+
+Operating Cash Flow: ₹72,00,000
+Investing Cash Flow: -₹35,00,000
+Financing Cash Flow: -₹20,00,000
+
+Net Cash Flow: ₹17,00,000
+
+KEY METRICS
+===========
+- Profit Margin: 9.23%
+- Debt-to-Asset Ratio: 0.42
+- Current Ratio: 1.88
+- Return on Assets: 12.63%
+
+NOTES
+=====
+The company has shown consistent growth over the past year with strong operating cash flow generation.
