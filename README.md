@@ -102,20 +102,5 @@ Loan Recommendation → Amount + Interest Rate
 CAM Report Generation
 ```
 
-## 🏆 Hackathon Ready
 
-- ✅ Data Ingestion Engine
-- ✅ Research Agent
-- ✅ Feature Engineering
-- ✅ ML Risk Model
-- ✅ Explainable AI
-- ✅ CAM Generator
-- ✅ Indian Context Support
 
-## 📝 License
-
-Open source for hackathon use.
-
-## 👨‍💻 Author
-
-Built for Intelli-Credit Hackathon Challenge
